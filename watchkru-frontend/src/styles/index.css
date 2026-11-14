@@ -1,0 +1,201 @@
+@import "tailwindcss";
+
+/* Peyda — self-hosted from /Peyda (files copied to public/fonts/peyda).
+   One family for the whole site: UI text, headlines, numbers and the logotype. */
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/PeydaWeb-Thin.woff2") format("woff2"), url("/fonts/peyda/PeydaWeb-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/peydaWeb-extralight.woff2") format("woff2"), url("/fonts/peyda/peydaWeb-extralight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/peydaWeb-light.woff2") format("woff2"), url("/fonts/peyda/peydaWeb-light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/PeydaWeb-Regular.woff2") format("woff2"), url("/fonts/peyda/PeydaWeb-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/PeydaWeb-Medium.woff2") format("woff2"), url("/fonts/peyda/PeydaWeb-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/PeydaWeb-SemiBold.woff2") format("woff2"), url("/fonts/peyda/PeydaWeb-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/PeydaWeb-Bold.woff2") format("woff2"), url("/fonts/peyda/PeydaWeb-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/PeydaWeb-ExtraBold.woff2") format("woff2"), url("/fonts/peyda/PeydaWeb-ExtraBold.woff") format("woff");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Peyda";
+  src: url("/fonts/peyda/PeydaWeb-Black.woff2") format("woff2"), url("/fonts/peyda/PeydaWeb-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  /* WatchKru brand palette — fixed, do not introduce other colors.
+     These are the dark-theme values; `html.light` below swaps them so both
+     themes share exactly the same token names and components. */
+  --color-bg: #101116;
+  --color-surface: #191b23;
+  --color-surface-2: #222530;
+  --color-ink: #f4f2ee;
+  --color-ink-dim: #a5a7b2;
+  --color-gold: #e6b85c;
+  --color-teal: #77c8b5;
+  --color-danger: #e36b6b;
+  --color-border: #303340;
+
+  --font-sans: "Peyda", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Peyda", ui-sans-serif, system-ui, sans-serif;
+
+  --radius-wk-sm: 6px;
+  --radius-wk-md: 10px;
+  --radius-wk-lg: 16px;
+}
+
+/* Light theme: same token names, light values. Declared after :root so the
+   later rule (and higher specificity) wins without touching the utilities. */
+html.light {
+  --color-bg: #fbf9f4;
+  --color-surface: #ffffff;
+  --color-surface-2: #f1ede4;
+  --color-ink: #191a1f;
+  --color-ink-dim: #5d6070;
+  --color-gold: #96660f;
+  --color-teal: #0c7264;
+  --color-danger: #b3261e;
+  --color-border: #e3ddcf;
+  color-scheme: light;
+}
+
+@layer base {
+  html {
+    background: var(--color-bg);
+    color-scheme: dark;
+  }
+
+  html.light {
+    background: var(--color-bg);
+    color-scheme: light;
+  }
+
+  body {
+    transition: background-color 160ms ease, color 160ms ease;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-bg);
+    color: var(--color-ink);
+    font-feature-settings: "ss01" 1;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Peyda has no separate display cut, so headlines lean on weight instead. */
+  .font-display {
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  /* Latin fragments (English titles, numbers) sit on a slightly different
+     baseline inside RTL Persian text — nudge them back into rhythm. */
+  [dir="rtl"] .lat {
+    direction: ltr;
+    unicode-bidi: isolate;
+  }
+
+  ::selection {
+    background: var(--color-gold);
+    color: var(--color-bg);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-teal);
+    outline-offset: 2px;
+  }
+
+  /* Custom slim scrollbar for filmstrip rails */
+  .rail::-webkit-scrollbar {
+    height: 6px;
+  }
+  .rail::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .rail::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: 999px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .rail {
+    scroll-snap-type: x proximity;
+    -webkit-overflow-scrolling: touch;
+  }
+  [dir="rtl"] .rail-item {
+    scroll-snap-align: end;
+  }
+  .rail-item {
+    scroll-snap-align: start;
+  }
+
+  /* Sprocket-hole divider motif, used sparingly between major sections */
+  .sprocket-rule {
+    position: relative;
+    height: 1px;
+    background: var(--color-border);
+  }
+  .sprocket-rule::before {
+    content: "";
+    position: absolute;
+    inset-inline-start: 0;
+    top: 50%;
+    width: 100%;
+    height: 1px;
+    background-image: radial-gradient(circle, var(--color-border) 1.5px, transparent 1.6px);
+    background-size: 14px 1px;
+    transform: translateY(-50%);
+  }
+}

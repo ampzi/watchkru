@@ -1,0 +1,25 @@
+# Dependencies
+watchkru-frontend/node_modules/
+watchkru-backend/vendor/
+
+# Builds
+watchkru-frontend/dist/
+
+# Environment / secrets
+watchkru-backend/.env
+watchkru-backend/.env.*
+!watchkru-backend/.env.example
+watchkru-frontend/.env.local
+
+# Laravel runtime
+watchkru-backend/storage/logs/*.log
+watchkru-backend/storage/framework/cache/data/*
+watchkru-backend/storage/framework/sessions/*
+watchkru-backend/storage/framework/views/*
+watchkru-backend/bootstrap/cache/*.php
+watchkru-backend/public/storage
+
+# Local scratch and archives
+.tmpdata/
+.freebuff/
+*.zip

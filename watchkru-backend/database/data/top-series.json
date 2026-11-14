@@ -1,0 +1,1107 @@
+{
+    "generated_at": "2026-11-14T05:15:30+01:00",
+    "source": "Wikidata SPARQL (P4983, ranked by sitelinks) + Wikipedia REST summaries; posters downloaded locally or generated as typographic cards",
+    "count": 110,
+    "items": [
+        {
+            "slug": "the-simpsons",
+            "title": "The Simpsons",
+            "release_year": 1989,
+            "overview": "The Simpsons is an American animated sitcom created by Matt Groening and developed by Groening, James L. Brooks and Sam Simon for the Fox Broadcasting Company. It is a satirical depiction of American life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie. Set in the fictional town of Springfield, in an unspecified location in the United States, it caricatures society, Western culture, television, and the human condition.",
+            "poster_path": "/images/posters/series/the-simpsons.svg",
+            "external_provider": "wikidata",
+            "external_id": "456",
+            "source_title": "The Simpsons"
+        },
+        {
+            "slug": "spongebob-squarepants",
+            "title": "SpongeBob SquarePants",
+            "release_year": 1999,
+            "overview": "SpongeBob SquarePants, also known simply as SpongeBob, is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It first aired as a sneak peek after the Kids' Choice Awards on May 1, 1999, and officially premiered on July 17, 1999. It follows the adventures of SpongeBob SquarePants, an anthropomorphic yellow sea sponge, and his aquatic friends in the underwater city of Bikini Bottom.",
+            "poster_path": "/images/posters/series/spongebob-squarepants.svg",
+            "external_provider": "wikidata",
+            "external_id": "387",
+            "source_title": "SpongeBob SquarePants"
+        },
+        {
+            "slug": "go-dog-go",
+            "title": "Go, Dog. Go!",
+            "release_year": 2021,
+            "overview": "Go, Dog. Go! is a 1961 children's book written and illustrated by P. D. Eastman. It describes the actions and interactions of a group of highly mobile dogs, who operate cars and other conveyances in pursuit of work, play, and a final mysterious goal: a dog party.",
+            "poster_path": "/images/posters/series/go-dog-go.jpg",
+            "external_provider": "wikidata",
+            "external_id": "117162",
+            "source_title": "Go, Dog. Go!"
+        },
+        {
+            "slug": "game-of-thrones",
+            "title": "Game of Thrones",
+            "release_year": 2011,
+            "overview": "Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. It is the first adaptation of A Song of Ice and Fire, a series of high fantasy novels by George R. R. Martin, and the first in what would become the Game of Thrones franchise. The show premiered on HBO in the United States on April 17, 2011, and concluded on May 19, 2019, with 73 episodes broadcast over eight seasons.",
+            "poster_path": "/images/posters/series/game-of-thrones.svg",
+            "external_provider": "wikidata",
+            "external_id": "1399",
+            "source_title": "Game of Thrones"
+        },
+        {
+            "slug": "liv-and-maddie",
+            "title": "Liv and Maddie",
+            "release_year": 2013,
+            "overview": "Liv and Maddie is an American teen sitcom created by John D. Beck and Ron Hart. It premiered on Disney Channel on July 19, 2013, and concluded after four seasons on March 24, 2017, with the episode \"End-a-Rooney\", which was also the series' eightieth episode. The series stars Dove Cameron, Joey Bragg, Tenzing Norgay Trainor, Kali Rocha, Benjamin King, and Lauren Lindsey Donzis.",
+            "poster_path": "/images/posters/series/liv-and-maddie.svg",
+            "external_provider": "wikidata",
+            "external_id": "59375",
+            "source_title": "Liv and Maddie"
+        },
+        {
+            "slug": "the-big-bang-theory",
+            "title": "The Big Bang Theory",
+            "release_year": 2007,
+            "overview": "The Big Bang Theory is an American television sitcom created by Chuck Lorre and Bill Prady for CBS. It aired from September 24, 2007, to May 16, 2019, running for 12 seasons and 279 episodes.",
+            "poster_path": "/images/posters/series/the-big-bang-theory.jpg",
+            "external_provider": "wikidata",
+            "external_id": "1418",
+            "source_title": "The Big Bang Theory"
+        },
+        {
+            "slug": "friends",
+            "title": "Friends",
+            "release_year": 1994,
+            "overview": "Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons. With an ensemble cast starring Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, and David Schwimmer, the show revolves around six friends in their 20s and early 30s who live in Manhattan, New York City. The original executive producers were Kevin S. Bright, Kauffman, and Crane.",
+            "poster_path": "/images/posters/series/friends.svg",
+            "external_provider": "wikidata",
+            "external_id": "1668",
+            "source_title": "Friends"
+        },
+        {
+            "slug": "squid-game",
+            "title": "Squid Game",
+            "release_year": 2021,
+            "overview": "Squid Game is a South Korean dystopian survival thriller drama television series created, written, and directed by Hwang Dong-hyuk for Netflix. The series depicts a secret contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of children's games that result in death if eliminated, for the chance to win a ₩45.6 billion prize. The series' title draws from ojingeo (\"squid\"), a Korean children's game. Lee Jung-jae, who portrays series protagonist Seong Gi-hun, leads an ensemble cast.",
+            "poster_path": "/images/posters/series/squid-game.svg",
+            "external_provider": "wikidata",
+            "external_id": "93405",
+            "source_title": "Squid Game"
+        },
+        {
+            "slug": "teletubbies",
+            "title": "Teletubbies",
+            "release_year": 1997,
+            "overview": "Teletubbies is a British children's television series created by Anne Wood and Andrew Davenport for the BBC. The programme focuses on four differently coloured characters known as the Teletubbies, named after the television screens on their bellies. Recognised throughout popular culture for the uniquely shaped antenna protruding from the head of each character, the Teletubbies communicate mostly through gibberish and were designed to bear resemblance to toddlers.",
+            "poster_path": "/images/posters/series/teletubbies.svg",
+            "external_provider": "wikidata",
+            "external_id": "1682",
+            "source_title": "Teletubbies"
+        },
+        {
+            "slug": "as-aventuras-de-gui-estopa",
+            "title": "As Aventuras de Gui & Estopa",
+            "release_year": 2009,
+            "overview": "As Aventuras de Gui & Estopa is a Brazilian animated television series created by Mariana Caltabiano, and shown on Cartoon Network Brazil. The characters were originally created for a children's website called Iguinho in 1996, which developed into a cartoon over the years. It aired on Cartoon Network Brazil from April 26, 2008 to March 9, 2020.",
+            "poster_path": "/images/posters/series/as-aventuras-de-gui-estopa.svg",
+            "external_provider": "wikidata",
+            "external_id": "96844",
+            "source_title": "As Aventuras de Gui & Estopa"
+        },
+        {
+            "slug": "breaking-bad",
+            "title": "Breaking Bad",
+            "release_year": 2008,
+            "overview": "Breaking Bad is an American neo-Western crime drama television series created by Vince Gilligan for AMC. Set and filmed in Albuquerque, New Mexico, the series follows Walter White, an overqualified high school chemistry teacher who, after being diagnosed with stage-three lung cancer, begins producing and selling methamphetamine with former student Jesse Pinkman to secure his family's financial future. The series also stars Anna Gunn, Dean Norris, Betsy Brandt, RJ Mitte, Giancarlo Esposito, Bob Odenkirk, Jonathan Banks, Laura Fraser, and Jesse Plemons.",
+            "poster_path": "/images/posters/series/breaking-bad.svg",
+            "external_provider": "wikidata",
+            "external_id": "1396",
+            "source_title": "Breaking Bad"
+        },
+        {
+            "slug": "doctor-who",
+            "title": "Doctor Who",
+            "release_year": 1963,
+            "overview": "Doctor Who is a British science fiction television series first broadcast by the BBC in 1963. The series, created by Sydney Newman, C. E. Webber and Donald Wilson, follows the adventures of the Doctor, an extraterrestrial being from a humanoid species known as Time Lords. The Doctor travels through space and time using a time travelling spaceship called the TARDIS, which has an exterior that resembles a British police box. The Doctor encounters various civilisations, which they seek to protect by outwitting foes and solving crises. The Doctor usually travels with a companion.",
+            "poster_path": "/images/posters/series/doctor-who.svg",
+            "external_provider": "wikidata",
+            "external_id": "121",
+            "source_title": "Doctor Who"
+        },
+        {
+            "slug": "family-guy",
+            "title": "Family Guy",
+            "release_year": 1999,
+            "overview": "Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The series premiered on January 31, 1999, following Super Bowl XXXIII, with the rest of the first season airing from April 11, 1999. The show centers around the Griffins, a dysfunctional family consisting of parents Peter and Lois, their children, Meg, Chris, and Stewie, and their anthropomorphic pet dog, Brian. Set in the fictional city of Quahog, Rhode Island, the show exhibits much of its humor in the form of cutaway gags that often lampoon American culture.",
+            "poster_path": "/images/posters/series/family-guy.svg",
+            "external_provider": "wikidata",
+            "external_id": "1434",
+            "source_title": "Family Guy"
+        },
+        {
+            "slug": "sesame-street",
+            "title": "Sesame Street",
+            "release_year": 1969,
+            "overview": "Sesame Street is an American educational children's television series that combines live-action, sketch comedy, animation, and puppetry. It is produced by Sesame Workshop and was created by Joan Ganz Cooney and Lloyd Morrisett. It features Jim Henson's Muppets, and includes short films, with humor and cultural references. It premiered on November 10, 1969, to positive reviews, some controversy, and high viewership. It has aired on the United States national public television provider PBS since its debut, with its first run moving to premium channel HBO on January 16, 2016, then its sister streaming service HBO Max on November 12, 2020, which continued through the service's rebrand as Max in 2023 and as HBO Max in 2025, and most recently Netflix on November 10, 2025.",
+            "poster_path": "/images/posters/series/sesame-street.svg",
+            "external_provider": "wikidata",
+            "external_id": "502",
+            "source_title": "Sesame Street"
+        },
+        {
+            "slug": "house-m-d",
+            "title": "House M.D.",
+            "release_year": 2004,
+            "overview": "House is an American medical drama television series created by David Shore for Fox. It aired for eight seasons from November 16, 2004 to May 21, 2012. It focuses on Dr. Gregory House, an unconventional and misanthropic medical genius who, despite his dependence on pain medication, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital (PPTH) in New Jersey. He often clashes with his fellow physicians, including his own diagnostic team, as his hypotheses about patients' illnesses are often based on subtle or controversial insights, and his flouting of hospital rules and procedures frequently leads him into conflict with his boss, hospital administrator and Dean of Medicine Dr. Lisa Cuddy. House's only true friend is Dr. James Wilson, head of the Department of Oncology.",
+            "poster_path": "/images/posters/series/house-m-d.svg",
+            "external_provider": "wikidata",
+            "external_id": "1408",
+            "source_title": "House (TV series)"
+        },
+        {
+            "slug": "the-x-files",
+            "title": "The X-Files",
+            "release_year": 1993,
+            "overview": "The X-Files is an American science fiction drama television series created by Chris Carter. The original series aired from September 10, 1993, to May 19, 2002, on Fox, spanning nine seasons, with 202 episodes. A tenth season of six episodes ran from January to February 2016. Following the ratings success of this revival, The X-Files returned for an eleventh season of ten episodes, which ran from January to March 2018. In addition to the television series, two feature films have been released: the 1998 film The X-Files and the stand-alone film The X-Files: I Want to Believe, released in 2008, six years after the original television run ended.",
+            "poster_path": "/images/posters/series/the-x-files.svg",
+            "external_provider": "wikidata",
+            "external_id": "4087",
+            "source_title": "The X-Files"
+        },
+        {
+            "slug": "how-i-met-your-mother",
+            "title": "How I Met Your Mother",
+            "release_year": 2005,
+            "overview": "How I Met Your Mother is an American sitcom created by Craig Thomas and Carter Bays for CBS. The series, which aired from September 19, 2005, to March 31, 2014, follows main character Ted Mosby and his group of friends in New York City's Manhattan. As a frame story, Ted recounts to his children Penny and Luke the events from September 2005 to May 2013 that led to him meeting their mother.",
+            "poster_path": "/images/posters/series/how-i-met-your-mother.svg",
+            "external_provider": "wikidata",
+            "external_id": "1100",
+            "source_title": "How I Met Your Mother"
+        },
+        {
+            "slug": "prison-break",
+            "title": "Prison Break",
+            "release_year": 2005,
+            "overview": "Prison Break is an American crime drama television series created by Paul Scheuring for Fox. The series revolves around two brothers: Lincoln Burrows and Michael Scofield ; Lincoln has been sentenced to death for a crime he did not commit, while Michael devises an elaborate plan to help his brother escape prison and clear his name. Along with creator Paul Scheuring, the series was executive-produced by Matt Olmstead, Kevin Hooks, Marty Adelstein, Dawn Parouse, Neal H. Moritz, and Brett Ratner who directed the pilot episode. The series' theme music, composed by Ramin Djawadi, was nominated for a Primetime Emmy Award in 2006. Prison Break is a joint production between Original Film, Adelstein/Parouse Productions, Dawn Olmstead Productions, Adelstein Productions, One Light Road Productions, and 20th Century Fox Television.",
+            "poster_path": "/images/posters/series/prison-break.svg",
+            "external_provider": "wikidata",
+            "external_id": "2288",
+            "source_title": "Prison Break"
+        },
+        {
+            "slug": "thomas-friends",
+            "title": "Thomas & Friends",
+            "release_year": 1984,
+            "overview": "Thomas & Friends is a British children's television series developed by Britt Allcroft. Based on The Railway Series children's books by Wilbert and Christopher Awdry, it centers on Thomas the Tank Engine, as well as various anthropomorphic steam locomotives and other vehicles living on the fictional Island of Sodor.",
+            "poster_path": "/images/posters/series/thomas-friends.svg",
+            "external_provider": "wikidata",
+            "external_id": "2304",
+            "source_title": "Thomas & Friends"
+        },
+        {
+            "slug": "the-office",
+            "title": "The Office",
+            "release_year": 2005,
+            "overview": "The Office is the title of several mockumentary sitcoms based on a British series originally created by Stephen Merchant and Ricky Gervais as The Office in 2001. The original series also starred Gervais as manager and primary character David Brent. The two series were broadcast on BBC Two in 2001 and 2002, totalling 12 episodes, with two special episodes concluding the series in 2003. A follow up movie starring Gervais and featuring his David Brent character was released in 2016.",
+            "poster_path": "/images/posters/series/the-office.svg",
+            "external_provider": "wikidata",
+            "external_id": "2316",
+            "source_title": "The Office"
+        },
+        {
+            "slug": "mr-bean",
+            "title": "Mr. Bean",
+            "release_year": 1990,
+            "overview": "Mr. Bean is a British sitcom created by Rowan Atkinson and Richard Curtis, produced by Tiger Aspect Productions and starring Atkinson as the title character. The sitcom consists of 14 episodes that were co-written by Atkinson alongside Curtis and Robin Driscoll; the pilot episode was co-written by Ben Elton. The series originally aired on ITV, beginning with the pilot episode on 1 January 1990 and ending with \"Goodnight Mr. Bean\" on 31 October 1995, but it concludes both on VHS with \"Hair by Mr. Bean of London\" on 15 November 1995 and a clip special, \"The Best Bits of Mr. Bean\" on 21 October 1996.",
+            "poster_path": "/images/posters/series/mr-bean.svg",
+            "external_provider": "wikidata",
+            "external_id": "4327",
+            "source_title": "Mr. Bean"
+        },
+        {
+            "slug": "xena-warrior-princess",
+            "title": "Xena: Warrior Princess",
+            "release_year": 1995,
+            "overview": "Xena: Warrior Princess is an American sword-and-sorcery television series filmed in New Zealand, which aired in first-run syndication from September 4, 1995, to June 18, 2001. Critics have praised the series for its strong female protagonist, and it has acquired a strong cult following, attention in fandom, parody, and academia, and has influenced the direction of other television series.",
+            "poster_path": "/images/posters/series/xena-warrior-princess.svg",
+            "external_provider": "wikidata",
+            "external_id": "4616",
+            "source_title": "Xena: Warrior Princess"
+        },
+        {
+            "slug": "futurama",
+            "title": "Futurama",
+            "release_year": 1999,
+            "overview": "Futurama is an American animated science fiction sitcom created by Matt Groening and developed by Groening and David X. Cohen for the Fox Broadcasting Company, and later revived by Comedy Central and then Hulu. The series follows Philip J. Fry, a young man who is cryogenically preserved for 1,000 years and revived on December 31, 2999. Fry finds work at the interplanetary delivery company Planet Express, working alongside the one-eyed mutant Leela and the robot Bender. The series was envisioned by Groening in the mid-1990s while working on The Simpsons; he brought Cohen, a Simpsons writer, aboard to develop storylines and characters to pitch the show to Fox.",
+            "poster_path": "/images/posters/series/futurama.svg",
+            "external_provider": "wikidata",
+            "external_id": "615",
+            "source_title": "Futurama"
+        },
+        {
+            "slug": "stranger-things",
+            "title": "Stranger Things",
+            "release_year": 2016,
+            "overview": "Stranger Things is an American television series created by the Duffer Brothers for Netflix. Produced by Monkey Massacre Productions and 21 Laps Entertainment, the first season was released on Netflix on July 15, 2016. The second and third seasons followed in October 2017 and July 2019, respectively, and the fourth season was released in two volumes in May and July 2022. The fifth and final season was released in three volumes, including the finale, in November and December 2025. The show combines elements of horror, science fiction, mystery, coming-of-age, supernatural, and drama.",
+            "poster_path": "/images/posters/series/stranger-things.svg",
+            "external_provider": "wikidata",
+            "external_id": "66732",
+            "source_title": "Stranger Things"
+        },
+        {
+            "slug": "avatar-the-last-airbender",
+            "title": "Avatar: The Last Airbender",
+            "release_year": 2005,
+            "overview": "Avatar: The Last Airbender is an American animated fantasy action television series created by Michael Dante DiMartino and Bryan Konietzko. Produced by Nickelodeon Animation Studios, it originally aired on Nickelodeon for three seasons from February 2005 to July 2008.",
+            "poster_path": "/images/posters/series/avatar-the-last-airbender.svg",
+            "external_provider": "wikidata",
+            "external_id": "246",
+            "source_title": "Avatar: The Last Airbender"
+        },
+        {
+            "slug": "grey-s-anatomy",
+            "title": "Grey's Anatomy",
+            "release_year": 2005,
+            "overview": "Grey's Anatomy is an American medical drama television series focusing on the personal and professional lives of surgical interns, residents, and attendings at the fictional Seattle Grace Hospital. The series premiered on March 27, 2005, on ABC as a mid-season replacement and has been renewed annually for two decades. Its title is a mixture of the protagonist's surname and the name of the classic human anatomy textbook Gray's Anatomy. Writer Shonda Rhimes developed the pilot and served as showrunner, head writer, and executive producer until stepping down in 2015. Set in Seattle, Washington, the series is filmed primarily in Los Angeles, California.",
+            "poster_path": "/images/posters/series/grey-s-anatomy.svg",
+            "external_provider": "wikidata",
+            "external_id": "1416",
+            "source_title": "Grey's Anatomy"
+        },
+        {
+            "slug": "supernatural",
+            "title": "Supernatural",
+            "release_year": 2005,
+            "overview": "Supernatural phenomena or entities are those beyond the laws of nature. The term is derived from Medieval Latin supernaturalis, from Latin super- 'above, beyond, outside of' + natura 'nature'. Although the corollary term \"nature\" has had multiple meanings since the ancient world, the term \"supernatural\" emerged in the Middle Ages and did not exist in the ancient world. Many cultures around the world lack concepts or reject distinctions between the natural and supernatural.",
+            "poster_path": "/images/posters/series/supernatural.svg",
+            "external_provider": "wikidata",
+            "external_id": "1622",
+            "source_title": "Supernatural"
+        },
+        {
+            "slug": "desperate-housewives",
+            "title": "Desperate Housewives",
+            "release_year": 2004,
+            "overview": "Desperate Housewives is an American primetime television soap opera created by Marc Cherry, and produced by ABC Studios and Cherry Productions. It aired for eight seasons on ABC from October 3, 2004, until May 13, 2012, for a total of 180 episodes. Executive producer Marc Cherry served as showrunner. Other executive producers since the fourth season included Bob Daily, George W. Perkins, John Pardee, Joey Murphy, David Grossman, and Larry Shaw.",
+            "poster_path": "/images/posters/series/desperate-housewives.svg",
+            "external_provider": "wikidata",
+            "external_id": "693",
+            "source_title": "Desperate Housewives"
+        },
+        {
+            "slug": "rick-and-morty",
+            "title": "Rick and Morty",
+            "release_year": 2013,
+            "overview": "Rick and Morty is an American adult animated science fiction tragicomedy sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's nighttime programming block Adult Swim. The series follows the misadventures of Rick Sanchez, a cynical mad scientist, and his good-hearted but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures that take place across an infinite number of realities, often traveling to other planets and dimensions through portals and on Rick's flying saucer. The general concept of Rick and Morty relies on two conflicting scenarios: domestic family drama and a misanthropic grandfather dragging his grandson into hijinks.",
+            "poster_path": "/images/posters/series/rick-and-morty.svg",
+            "external_provider": "wikidata",
+            "external_id": "60625",
+            "source_title": "Rick and Morty"
+        },
+        {
+            "slug": "the-sopranos",
+            "title": "The Sopranos",
+            "release_year": 1999,
+            "overview": "The Sopranos is an American crime drama television series created by David Chase for HBO. The series follows Tony Soprano, a New Jersey Mafia boss. Suffering from panic attacks, he reluctantly begins seeing psychiatrist Dr. Jennifer Melfi, who encourages him to open up about his difficulties balancing his family life with his criminal activities. Other important characters include Tony's family, Mafia colleagues, and rivals, most notably his wife Carmela, his nephew and protégé Christopher Moltisanti, and his uncle Corrado \"Junior\" Soprano.",
+            "poster_path": "/images/posters/series/the-sopranos.svg",
+            "external_provider": "wikidata",
+            "external_id": "1398",
+            "source_title": "The Sopranos"
+        },
+        {
+            "slug": "money-heist",
+            "title": "Money Heist",
+            "release_year": 2017,
+            "overview": "Money Heist is a Spanish heist crime drama television series created by Álex Pina. The series traces two long-prepared heists led by the Professor, one on the Royal Mint of Spain, and one on the Bank of Spain, told from the perspective of one of the robbers, Tokyo. The story is told in a real-time-like fashion and relies on an unreliable narrator, flashbacks, time-jumps, and hidden character motivations for complexity.",
+            "poster_path": "/images/posters/series/money-heist.svg",
+            "external_provider": "wikidata",
+            "external_id": "71446",
+            "source_title": "Money Heist"
+        },
+        {
+            "slug": "peppa-pig",
+            "title": "Peppa Pig",
+            "release_year": 2004,
+            "overview": "Peppa Pig is a British preschool animated children's television series created by Neville Astley and Mark Baker. Produced by Hasbro Entertainment and Karrot Animation and formerly Astley Baker Davies, the series follows Peppa, an anthropomorphic piglet, and her family and friends portrayed as other animals. The show first aired on 31 May 2004. The ninth series began broadcasting in 2025. Peppa Pig has been broadcast in over 180 countries.",
+            "poster_path": "/images/posters/series/peppa-pig.svg",
+            "external_provider": "wikidata",
+            "external_id": "12225",
+            "source_title": "Peppa Pig"
+        },
+        {
+            "slug": "neon-genesis-evangelion",
+            "title": "Neon Genesis Evangelion",
+            "release_year": 1995,
+            "overview": "Neon Genesis Evangelion , also known as simply Evangelion or Eva, is a Japanese anime television series produced by Gainax and Tatsunoko Production, and directed by Hideaki Anno. It was broadcast on TV Tokyo and its affiliates from October 1995 to March 1996. The story, set in 2015, fifteen years after a worldwide cataclysm in the futuristic fortified city of Tokyo-3, follows Shinji Ikari, a teenage boy who is recruited by his father Gendo Ikari to the mysterious organization Nerv. Shinji is tasked to pilot an Evangelion, a giant biomechanical mecha, to fight and destroy beings known as Angels.",
+            "poster_path": "/images/posters/series/neon-genesis-evangelion.svg",
+            "external_provider": "wikidata",
+            "external_id": "890",
+            "source_title": "Neon Genesis Evangelion"
+        },
+        {
+            "slug": "adventure-time",
+            "title": "Adventure Time",
+            "release_year": 2010,
+            "overview": "Adventure Time is an American animated fantasy television series created by Pendleton Ward for Cartoon Network. It follows the adventures of a boy named Finn and his best friend and adoptive brother Jake —a dog with the power to change size and shape at will. Finn and Jake live in the post-apocalyptic Land of Ooo, where they interact with Princess Bubblegum, the Ice King, Marceline the Vampire Queen, BMO, and others. It was produced by Cartoon Network Studios and Frederator Studios.",
+            "poster_path": "/images/posters/series/adventure-time.svg",
+            "external_provider": "wikidata",
+            "external_id": "15260",
+            "source_title": "Adventure Time"
+        },
+        {
+            "slug": "the-vampire-diaries",
+            "title": "The Vampire Diaries",
+            "release_year": 2009,
+            "overview": "The Vampire Diaries is an American supernatural teen drama television series developed by Kevin Williamson and Julie Plec, based on The Vampire Diaries novel series written by L. J. Smith. The series premiered on the CW on September 10, 2009, and concluded on March 10, 2017, having aired 171 episodes over eight seasons.",
+            "poster_path": "/images/posters/series/the-vampire-diaries.svg",
+            "external_provider": "wikidata",
+            "external_id": "18165",
+            "source_title": "The Vampire Diaries"
+        },
+        {
+            "slug": "dragon-ball-z",
+            "title": "Dragon Ball Z",
+            "release_year": 1989,
+            "overview": "Dragon Ball Z (DBZ) is a Japanese anime television series produced by Toei Animation. Part of the Dragon Ball media franchise, it serves as a direct sequel to the 1986 Dragon Ball television series, adapting the remaining 325 chapters of the manga series Dragon Ball by Akira Toriyama. The series aired in Japan on Fuji Television and its FNS affiliates from April 1989 to January 1996 and was later dubbed for broadcast in at least 81 countries worldwide.",
+            "poster_path": "/images/posters/series/dragon-ball-z.svg",
+            "external_provider": "wikidata",
+            "external_id": "12971",
+            "source_title": "Dragon Ball Z"
+        },
+        {
+            "slug": "the-penguins-of-madagascar",
+            "title": "The Penguins of Madagascar",
+            "release_year": 2008,
+            "overview": "The Penguins of Madagascar is an American animated television series produced by Nickelodeon Animation Studio in association with DreamWorks Animation. It stars nine characters from DreamWorks' animated film Madagascar—Skipper, Rico, Kowalski, Private, King Julien, Maurice, Mort, Mason, and Phil. Characters new to the series include an otter named Marlene and a zookeeper named Alice. It is the first Nicktoon co-produced with DreamWorks Animation. The series was executive-produced by Bob Schooley and Mark McCorkle, who were the creators of the animated series Buzz Lightyear of Star Command and Disney Channel's Kim Possible.",
+            "poster_path": "/images/posters/series/the-penguins-of-madagascar.svg",
+            "external_provider": "wikidata",
+            "external_id": "7869",
+            "source_title": "The Penguins of Madagascar"
+        },
+        {
+            "slug": "hannah-montana",
+            "title": "Hannah Montana",
+            "release_year": 2006,
+            "overview": "Hannah Montana is an American teen sitcom created by Michael Poryes, Rich Correll, and Barry O'Brien that aired on Disney Channel for four seasons between March 2006 and January 2011. The series centers on Miley Stewart, a teenage girl living a double life as famous pop singer Hannah Montana, an alter ego she adopted so she could maintain her anonymity and live a normal life as a typical teenager. Episodes deal with Miley's everyday struggles to cope with the social and personal issues of adolescence while maintaining the added complexities of her secret identity, which she sustains by wearing a blonde wig. Miley has strong relationships with her brother Jackson and father Robby Ray, as well as her best friends Lilly Truscott and Oliver Oken, who become aware of her secret. Overarching themes include a focus on family and friendships as well as the importance of music and discovering one",
+            "poster_path": "/images/posters/series/hannah-montana.svg",
+            "external_provider": "wikidata",
+            "external_id": "4610",
+            "source_title": "Hannah Montana"
+        },
+        {
+            "slug": "gravity-falls",
+            "title": "Gravity Falls",
+            "release_year": 2012,
+            "overview": "Gravity Falls is an American animated mystery comedy television series created by Alex Hirsch for Disney Channel and Disney XD. The series follows the adventures of Dipper Pines and his twin sister Mabel, who are sent to spend the summer with their great-uncle Stan (Hirsch) in Gravity Falls, Oregon, a mysterious town rife with paranormal incidents and supernatural creatures. The kids help Stan run the \"Mystery Shack\", the tourist trap that he owns, while also investigating the local mysteries.",
+            "poster_path": "/images/posters/series/gravity-falls.svg",
+            "external_provider": "wikidata",
+            "external_id": "40075",
+            "source_title": "Gravity Falls"
+        },
+        {
+            "slug": "sex-and-the-city",
+            "title": "Sex and the City",
+            "release_year": 1998,
+            "overview": "Sex and the City is an American romantic comedy-drama television series created by Darren Star for HBO, based on the newspaper column and 1996 book by Candace Bushnell. It premiered in the United States on June 6, 1998, and concluded on February 22, 2004, with 94 episodes broadcast over six seasons.",
+            "poster_path": "/images/posters/series/sex-and-the-city.svg",
+            "external_provider": "wikidata",
+            "external_id": "105",
+            "source_title": "Sex and the City"
+        },
+        {
+            "slug": "masha-and-the-bear",
+            "title": "Masha and the Bear",
+            "release_year": 2009,
+            "overview": "Masha and the Bear is a Russian preschool comedy animated television series created by Oleg Kuzovkov and produced by Animaccord Animation Studio, loosely based on the oral children's folk story of the same name. The series focuses on the adventures of a very young girl named Masha and a bear, her caring friend who always keeps her safe from disasters.",
+            "poster_path": "/images/posters/series/masha-and-the-bear.svg",
+            "external_provider": "wikidata",
+            "external_id": "46080",
+            "source_title": "Masha and the Bear"
+        },
+        {
+            "slug": "victorious",
+            "title": "Victorious",
+            "release_year": 2010,
+            "overview": "Victorious is an American teen sitcom created by Dan Schneider that aired on Nickelodeon from March 27, 2010, to February 2, 2013. The series ran for four seasons and produced 57 episodes.",
+            "poster_path": "/images/posters/series/victorious.svg",
+            "external_provider": "wikidata",
+            "external_id": "31251",
+            "source_title": "Victorious"
+        },
+        {
+            "slug": "phineas-and-ferb",
+            "title": "Phineas and Ferb",
+            "release_year": 2007,
+            "overview": "Phineas and Ferb is an American animated musical-comedy television series created by Dan Povenmire and Jeff \"Swampy\" Marsh for Disney Channel and Disney XD. The series originally aired on the networks for four seasons between 2007 and 2015, and returned for the first of two additional seasons in 2025. The series follows stepbrothers Phineas Flynn and Ferb Fletcher, who construct a grand project or embark on an adventure each day to make the most of their time on summer vacation, to the annoyance of Phineas' older sister Candace Flynn. Candace's attempts to expose their schemes to her mother always fail due to the fights between local evil scientist Dr. Heinz Doofenshmirtz and the boys' secret agent pet Perry the Platypus inadvertently removing all evidence of their work. The series follows a standard plot system, with several running gags occurring each episode.",
+            "poster_path": "/images/posters/series/phineas-and-ferb.svg",
+            "external_provider": "wikidata",
+            "external_id": "1877",
+            "source_title": "Phineas and Ferb"
+        },
+        {
+            "slug": "black-mirror",
+            "title": "Black Mirror",
+            "release_year": 2011,
+            "overview": "Black Mirror is a British anthology television series created by Charlie Brooker. Most episodes are speculative fiction, set in near-future dystopias containing sci-fi technology. The series is inspired by The Twilight Zone and uses the themes of technology and media to comment on contemporary social issues. Most episodes are written by Brooker with involvement by the executive producer Annabel Jones.",
+            "poster_path": "/images/posters/series/black-mirror.svg",
+            "external_provider": "wikidata",
+            "external_id": "42009",
+            "source_title": "Black Mirror"
+        },
+        {
+            "slug": "two-and-a-half-men",
+            "title": "Two and a Half Men",
+            "release_year": 2003,
+            "overview": "Two and a Half Men is an American television sitcom, created by Chuck Lorre and Lee Aronsohn, that aired for 12 seasons on CBS from September 22, 2003, to February 19, 2015. The series originally starred Charlie Sheen as Charlie Harper, a hedonistic jingle writer, alongside Jon Cryer as his uptight brother Alan, and Angus T. Jones as Alan's son Jake. Supporting roles were played by Holland Taylor, Marin Hinkle, Conchata Ferrell, and Melanie Lynskey.",
+            "poster_path": "/images/posters/series/two-and-a-half-men.svg",
+            "external_provider": "wikidata",
+            "external_id": "2691",
+            "source_title": "Two and a Half Men"
+        },
+        {
+            "slug": "american-horror-story",
+            "title": "American Horror Story",
+            "release_year": 2011,
+            "overview": "American Horror Story (AHS) is an American horror anthology television series created by Ryan Murphy and Brad Falchuk for the cable network FX. The first installment in the American Story media franchise, seasons of AHS are mostly conceived as self-contained miniseries, following a different set of characters in a new setting within the same fictional universe, and a storyline with its own beginning, middle, and end. Some plot elements of each season are loosely inspired by true events. The latest season, 13, premiered in September 2026. In October 2026, American Horror Story was renewed for a fourteenth season.",
+            "poster_path": "/images/posters/series/american-horror-story.svg",
+            "external_provider": "wikidata",
+            "external_id": "1413",
+            "source_title": "American Horror Story"
+        },
+        {
+            "slug": "peaky-blinders",
+            "title": "Peaky Blinders",
+            "release_year": 2013,
+            "overview": "The Peaky Blinders were a street gang based in Birmingham, England, which operated from the 1880s until the 1920s. The group consisted largely of young criminals from lower- to working-class backgrounds. They engaged in robbery, violence, racketeering, illegal bookmaking, and control of gambling. By the 20th century, members wore signature outfits that typically included tailored jackets, lapelled overcoats, buttoned waistcoats, silk scarves, bell-bottom trousers, leather boots, and flat caps.",
+            "poster_path": "/images/posters/series/peaky-blinders.svg",
+            "external_provider": "wikidata",
+            "external_id": "60574",
+            "source_title": "Peaky Blinders"
+        },
+        {
+            "slug": "the-flintstones",
+            "title": "The Flintstones",
+            "release_year": 1960,
+            "overview": "The Flintstones is an American animated sitcom by Hanna-Barbera Productions. It was originally broadcast on ABC from September 30, 1960, to April 1, 1966 as the first animated series with a prime-time slot on television, as well as the first animated sitcom. The series takes place in a romanticized Stone Age setting and follows the lives of the titular Fred and Wilma Flintstone and their pet dinosaur, Dino, along with the saber-toothed cat Baby Puss, and Fred and Wilma's eventual baby girl Pebbles. It also focuses on the Flintstones' neighbors and best friends Barney and Betty Rubble, and later their adopted baby boy Bamm-Bamm and pet hopparoo (kangaroo) Hoppy.",
+            "poster_path": "/images/posters/series/the-flintstones.svg",
+            "external_provider": "wikidata",
+            "external_id": "1996",
+            "source_title": "The Flintstones"
+        },
+        {
+            "slug": "smallville",
+            "title": "Smallville",
+            "release_year": 2001,
+            "overview": "Smallville is an American superhero television series developed by writer-producers Alfred Gough and Miles Millar, based on the DC Comics character Superman created by Jerry Siegel and Joe Shuster. The series was produced by Millar/Gough Ink, Tollin/Robbins Productions, DC Entertainment, and Warner Bros. Television. It follows the coming-of-age adventures of teenage Clark Kent in his fictional hometown of Smallville, Kansas, before he formally becomes the Man of Steel. The first four seasons focus on the high school life of Clark and his friends, his complicated romance with neighbor girl Lana Lang, and his friendship with future nemesis Lex Luthor. From season five onward, Smallville ventures into Clark's early adult years, eventually focusing on his career alongside Lois Lane at the Daily Planet and introducing other DC comic book superheroes and villains.",
+            "poster_path": "/images/posters/series/smallville.svg",
+            "external_provider": "wikidata",
+            "external_id": "4604",
+            "source_title": "Smallville"
+        },
+        {
+            "slug": "criminal-minds",
+            "title": "Criminal Minds",
+            "release_year": 2005,
+            "overview": "Criminal Minds is an American police procedural crime drama television series created by Jeff Davis that premiered on CBS on September 22, 2005. It follows a group of criminal profilers who work for the FBI as members of its Behavioral Analysis Unit (BAU).",
+            "poster_path": "/images/posters/series/criminal-minds.svg",
+            "external_provider": "wikidata",
+            "external_id": "4057",
+            "source_title": "Criminal Minds"
+        },
+        {
+            "slug": "icarly",
+            "title": "iCarly",
+            "release_year": 2007,
+            "overview": "iCarly is an American teen sitcom created by Dan Schneider, which originally aired on Nickelodeon from September 8, 2007, to November 23, 2012.",
+            "poster_path": "/images/posters/series/icarly.svg",
+            "external_provider": "wikidata",
+            "external_id": "5371",
+            "source_title": "ICarly"
+        },
+        {
+            "slug": "modern-family",
+            "title": "Modern Family",
+            "release_year": 2009,
+            "overview": "Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for ABC. It aired for 11 seasons from September 23, 2009, to April 8, 2020. The series follows the lives of three diverse but interrelated family set-ups living in suburban Los Angeles.",
+            "poster_path": "/images/posters/series/modern-family.svg",
+            "external_provider": "wikidata",
+            "external_id": "1421",
+            "source_title": "Modern Family"
+        },
+        {
+            "slug": "the-adventures-of-jimmy-neutron-boy-genius",
+            "title": "The Adventures of Jimmy Neutron, Boy Genius",
+            "release_year": 2002,
+            "overview": "The Adventures of Jimmy Neutron, Boy Genius is an American animated science fiction and adventure television series created by John A. Davis for Nickelodeon. The series was produced by DNA Productions in association with O Entertainment. It was the first Nickelodeon cartoon to be animated in computer-generated imagery (CGI), as well as the first television series from the channel to be based on a film. Set in the fictional town of Retroville in Texas, and serving as a sequel and spin-off to the film Jimmy Neutron: Boy Genius (2001), the series revolves around the adventures of Jimmy Neutron, a boy genius who is frequently accompanied by his best friends, Carl Wheezer and Sheen Estevez, with Jimmy's various inventions often going awry.",
+            "poster_path": "/images/posters/series/the-adventures-of-jimmy-neutron-boy-genius.svg",
+            "external_provider": "wikidata",
+            "external_id": "2129",
+            "source_title": "The Adventures of Jimmy Neutron, Boy Genius"
+        },
+        {
+            "slug": "the-last-of-us",
+            "title": "The Last of Us",
+            "release_year": 2023,
+            "overview": "The Last of Us is an action-adventure video game series and media franchise created by Naughty Dog and published by Sony Interactive Entertainment. The series is set in a post-apocalyptic United States ravaged by cannibalistic humans infected by a mutated fungus in the genus Cordyceps. It follows several survivors, including Joel, a smuggler who lost his daughter during the outbreak; Ellie, a young girl who is immune to the infection; and Abby, a soldier who becomes involved in a conflict between her militia and a religious cult. The games use a third-person perspective in which the player fights against hostile humans and cannibalistic creatures with firearms, improvised weapons, and stealth.",
+            "poster_path": "/images/posters/series/the-last-of-us.svg",
+            "external_provider": "wikidata",
+            "external_id": "100088",
+            "source_title": "The Last of Us"
+        },
+        {
+            "slug": "charmed",
+            "title": "Charmed",
+            "release_year": 1998,
+            "overview": "Charmed is an American fantasy drama television series created by Constance M. Burge and produced by Aaron Spelling and his production company Spelling Television, with Brad Kern serving as showrunner.",
+            "poster_path": "/images/posters/series/charmed.svg",
+            "external_provider": "wikidata",
+            "external_id": "1981",
+            "source_title": "Charmed"
+        },
+        {
+            "slug": "stargate-sg-1",
+            "title": "Stargate SG-1",
+            "release_year": 1997,
+            "overview": "Stargate SG-1 is a military science fiction adventure television series within Metro-Goldwyn-Mayer's Stargate franchise. The show, created by Brad Wright and Jonathan Glassner, is based on the 1994 science fiction film Stargate by Dean Devlin and Roland Emmerich. The television series was filmed in and around the city of Vancouver, British Columbia, Canada. The series premiered on Showtime on July 27, 1997, and moved to the Sci Fi Channel on June 7, 2002; the series finale aired on Sky1 on March 13, 2007.",
+            "poster_path": "/images/posters/series/stargate-sg-1.svg",
+            "external_provider": "wikidata",
+            "external_id": "4629",
+            "source_title": "Stargate SG-1"
+        },
+        {
+            "slug": "twin-peaks",
+            "title": "Twin Peaks",
+            "release_year": 1990,
+            "overview": "Twin Peaks is an American surrealist mystery-horror-drama television series created by David Lynch and Mark Frost. It premiered on ABC on April 8, 1990, and ran for two seasons until its cancellation in 1991. The show returned in 2017 for a third season on Showtime.",
+            "poster_path": "/images/posters/series/twin-peaks.svg",
+            "external_provider": "wikidata",
+            "external_id": "1920",
+            "source_title": "Twin Peaks"
+        },
+        {
+            "slug": "csi-crime-scene-investigation",
+            "title": "CSI: Crime Scene Investigation",
+            "release_year": 2000,
+            "overview": "CSI: Crime Scene Investigation is an American police procedural drama television series that aired on CBS from October 6, 2000, to September 27, 2015, spanning 15 seasons. It is the first series in the CSI franchise. The series originally starred William Petersen, Marg Helgenberger, Gary Dourdan, George Eads, Jorja Fox, and Paul Guilfoyle. Other cast members included Eric Szmanda, Robert David Hall, David Berman, Louise Lombard, Wallace Langham, Lauren Lee Smith, Ted Danson, Laurence Fishburne, and Elisabeth Shue. The series concluded with a feature-length finale, Immortality.",
+            "poster_path": "/images/posters/series/csi-crime-scene-investigation.svg",
+            "external_provider": "wikidata",
+            "external_id": "1431",
+            "source_title": "CSI: Crime Scene Investigation"
+        },
+        {
+            "slug": "wednesday",
+            "title": "Wednesday",
+            "release_year": 2022,
+            "overview": "Wednesday is the day of the week in-between Tuesday and Thursday. According to international standard ISO 8601, it is the third day of the week. However, in countries that adopt the traditional \"Sunday first\" convention, where Sunday is the first day of the week, it is the fourth day of the week.",
+            "poster_path": "/images/posters/series/wednesday.jpg",
+            "external_provider": "wikidata",
+            "external_id": "119051",
+            "source_title": "Wednesday"
+        },
+        {
+            "slug": "my-little-pony-friendship-is-magic",
+            "title": "My Little Pony: Friendship Is Magic",
+            "release_year": 2010,
+            "overview": "My Little Pony: Friendship Is Magic is an animated television series based on Hasbro's My Little Pony franchise and marking the start of its fourth incarnation. The series follows a studious pony named Twilight Sparkle, her dragon assistant Spike, and her friends Applejack, Rarity, Fluttershy, Rainbow Dash (Ball) and Pinkie Pie (Libman). The six ponies, collectively known as the \"Mane Six\", go on adventures and help others around Equestria, solving problems with their friendships.",
+            "poster_path": "/images/posters/series/my-little-pony-friendship-is-magic.svg",
+            "external_provider": "wikidata",
+            "external_id": "33765",
+            "source_title": "My Little Pony: Friendship Is Magic"
+        },
+        {
+            "slug": "the-fairly-oddparents",
+            "title": "The Fairly OddParents",
+            "release_year": 2001,
+            "overview": "The Fairly OddParents is an American animated television series created by Butch Hartman for Nickelodeon. It follows the adventures of Timmy Turner, a 10-year old boy with two fairy godparents named Cosmo and Wanda who grant him wishes to solve his everyday problems.",
+            "poster_path": "/images/posters/series/the-fairly-oddparents.svg",
+            "external_provider": "wikidata",
+            "external_id": "4630",
+            "source_title": "The Fairly OddParents"
+        },
+        {
+            "slug": "dora-the-explorer",
+            "title": "Dora the Explorer",
+            "release_year": 2000,
+            "overview": "Dora the Explorer is an American media franchise centered on the title character from an animated children's television series that features interactive elements and frequently breaks the fourth wall. It was created by Chris Gifford, Valerie Walsh Valdes, and Eric Weiner, and produced by Nickelodeon Animation Studio. The series originally ran on Nickelodeon from August 14, 2000 to June 5, 2014, with the final six unaired episodes later airing from July 7, 2019 to August 9, 2019. It has since spawned a spin-off television series, a sequel television series, a live-action feature film and, a reboot. As of 2014, retail sales for the franchise exceeded $15 billion, making it one of the highest-grossing media franchises of all time.",
+            "poster_path": "/images/posters/series/dora-the-explorer.svg",
+            "external_provider": "wikidata",
+            "external_id": "79",
+            "source_title": "Dora the Explorer"
+        },
+        {
+            "slug": "buffy-the-vampire-slayer",
+            "title": "Buffy the Vampire Slayer",
+            "release_year": 1997,
+            "overview": "Buffy the Vampire Slayer is an American supernatural horror drama television series created by Joss Whedon. The show's concept is based on the 1992 film written by Whedon, although they are separate and distinct productions. Whedon served as executive producer and showrunner of the series under his production company Mutant Enemy Productions. It aired on The WB from March 10, 1997, to May 22, 2001, and later on UPN from October 2, 2001, to May 20, 2003.",
+            "poster_path": "/images/posters/series/buffy-the-vampire-slayer.svg",
+            "external_provider": "wikidata",
+            "external_id": "95",
+            "source_title": "Buffy the Vampire Slayer"
+        },
+        {
+            "slug": "house-of-the-dragon",
+            "title": "House of the Dragon",
+            "release_year": 2022,
+            "overview": "House of the Dragon is an American fantasy drama television series created by George R. R. Martin and Ryan Condal for HBO. A prequel to Game of Thrones (2011–2019), it is the second television series in the Game of Thrones franchise. Based on parts of Martin's 2018 book Fire & Blood, the series begins about 100 years after the Seven Kingdoms are united by the Targaryen conquest, nearly 200 years before the events of Game of Thrones, and 172 years before the birth of Daenerys Targaryen. Featuring an ensemble cast, the show portrays the events leading up to the decline of House Targaryen, a devastating war of succession known as the \"Dance of the Dragons\".",
+            "poster_path": "/images/posters/series/house-of-the-dragon.svg",
+            "external_provider": "wikidata",
+            "external_id": "94997",
+            "source_title": "House of the Dragon"
+        },
+        {
+            "slug": "steven-universe",
+            "title": "Steven Universe",
+            "release_year": 2013,
+            "overview": "Steven Universe is an American animated television series created by Rebecca Sugar for Cartoon Network. It tells the coming-of-age story of a young boy, Steven Universe, who lives with the Crystal Gems—magical, mineral-based aliens named Garnet (Estelle), Amethyst and Pearl —in the fictional town of Beach City. Steven, who is half-Gem, has adventures with his friends and helps the Gems protect the world from their own kind. The pilot premiered in May 2013, and the series ran for five seasons, from November 2013 to January 2019. The television film Steven Universe: The Movie was released in September 2019, and an epilogue limited series, Steven Universe Future, ran from December 2019 to March 2020. Books, comics, video games and soundtracks based on the series have also been released.",
+            "poster_path": "/images/posters/series/steven-universe.svg",
+            "external_provider": "wikidata",
+            "external_id": "61175",
+            "source_title": "Steven Universe"
+        },
+        {
+            "slug": "chernobyl",
+            "title": "Chernobyl",
+            "release_year": 2019,
+            "overview": "Chernobyl, also known as Chornobyl, is a partially abandoned city in Vyshhorod Raion, Kyiv Oblast, Ukraine. It is located within the Chernobyl Exclusion Zone, 90 kilometres (60 mi) to the north of Kyiv and 160 kilometres (100 mi) to the southwest of Gomel in neighbouring Belarus. Prior to being evacuated in the aftermath of the Chernobyl disaster in 1986, it was home to approximately 14,000 residents—considerably less than adjacent Pripyat, which was completely abandoned following the incident. Since then, although living anywhere within the Chernobyl Exclusion Zone is technically illegal, Ukrainian authorities have tolerated those who have taken up living in some of the city's less irradiated areas; Chernobyl's 2020 population estimate was 150 people.",
+            "poster_path": "/images/posters/series/chernobyl.svg",
+            "external_provider": "wikidata",
+            "external_id": "87108",
+            "source_title": "Chernobyl"
+        },
+        {
+            "slug": "the-mentalist",
+            "title": "The Mentalist",
+            "release_year": 2008,
+            "overview": "The Mentalist is an American procedural drama television series that ran from September 23, 2008, until February 18, 2015, broadcasting 151 episodes over seven seasons, on CBS. It was created by Bruno Heller, who was also its executive producer. The show follows former \"psychic\" Patrick Jane, who is a consultant to the California Bureau of Investigation (CBI), and his boss, senior agent Teresa Lisbon. Jane uses highly developed observational skills to \"read\" people's minds and to solve murder cases.",
+            "poster_path": "/images/posters/series/the-mentalist.svg",
+            "external_provider": "wikidata",
+            "external_id": "5920",
+            "source_title": "The Mentalist"
+        },
+        {
+            "slug": "regular-show",
+            "title": "Regular Show",
+            "release_year": 2010,
+            "overview": "Regular Show is an American animated sitcom created by J. G. Quintel for Cartoon Network. It ran from September 6, 2010, to January 16, 2017, over the course of eight seasons and 244 episodes.",
+            "poster_path": "/images/posters/series/regular-show.svg",
+            "external_provider": "wikidata",
+            "external_id": "31132",
+            "source_title": "Regular Show"
+        },
+        {
+            "slug": "gossip-girl",
+            "title": "Gossip Girl",
+            "release_year": 2007,
+            "overview": "Gossip Girl is an American teen drama television series created and developed by Josh Schwartz and Stephanie Savage and based on the series of novels of the same name by Cecily von Ziegesar. It follows a group of students on Manhattan's Upper East Side whose private and social lives are chronicled by the unidentified blogger \"Gossip Girl\". The series was broadcast on the CW from September 19, 2007, to December 17, 2012, spanning six seasons and 121 episodes.",
+            "poster_path": "/images/posters/series/gossip-girl.svg",
+            "external_provider": "wikidata",
+            "external_id": "1395",
+            "source_title": "Gossip Girl"
+        },
+        {
+            "slug": "saturday-night-live",
+            "title": "Saturday Night Live",
+            "release_year": 1975,
+            "overview": "Saturday Night Live (SNL) is an American late-night live sketch comedy variety show created by Lorne Michaels and developed by Michaels and Dick Ebersol that airs on NBC and streams next day on Peacock. The show's premiere was hosted by George Carlin on NBC on October 11, 1975, under the original title NBC's Saturday Night. The show's comedy sketches are performed by a large and varying cast of repertory and newer “featured” cast members. Each episode is hosted by a celebrity guest, has a musical guest, and is broadcast live with a studio audience.",
+            "poster_path": "/images/posters/series/saturday-night-live.svg",
+            "external_provider": "wikidata",
+            "external_id": "1667",
+            "source_title": "Saturday Night Live"
+        },
+        {
+            "slug": "better-call-saul",
+            "title": "Better Call Saul",
+            "release_year": 2015,
+            "overview": "Better Call Saul is an American neo-noir legal crime drama television series created by Vince Gilligan and Peter Gould for AMC. Part of the Breaking Bad franchise, it is a spin-off of Gilligan's previous series, Breaking Bad (2008–2013), to which it serves primarily as a prequel, with some scenes taking place during and after the events of Breaking Bad. Better Call Saul premiered on AMC on February 8, 2015, and ended on August 15, 2022, after six seasons, totaling 63 episodes.",
+            "poster_path": "/images/posters/series/better-call-saul.svg",
+            "external_provider": "wikidata",
+            "external_id": "60059",
+            "source_title": "Better Call Saul"
+        },
+        {
+            "slug": "crash-landing-on-you",
+            "title": "Crash Landing on You",
+            "release_year": 2019,
+            "overview": "Crash Landing on You is a 2019 South Korean romantic comedy television series written by Park Ji-eun, directed by Lee Jung-hyo, and starring Hyun Bin, Son Ye-jin, Kim Jung-hyun, and Seo Ji-hye. The series follows Yoon Se-ri, a South Korean chaebol heiress who is swept across the border by a tornado while paragliding and lands in North Korea. She meets Ri Jeong-hyeok, a captain in the Korean People's Army, who hides and protects her. Despite the political division between their countries, they develop a romantic relationship. A subplot involves Gu Seung-jun, a fraudster seeking refuge in the North, and Seo Dan, a musician and Jeong-hyeok's fiancée.",
+            "poster_path": "/images/posters/series/crash-landing-on-you.jpg",
+            "external_provider": "wikidata",
+            "external_id": "94796",
+            "source_title": "Crash Landing on You"
+        },
+        {
+            "slug": "winx-club",
+            "title": "Winx Club",
+            "release_year": 2004,
+            "overview": "Winx Club is an animated series produced by Rainbow, with later seasons co-produced by Nickelodeon. It was created and directed by Italian animator Iginio Straffi. It premiered on 28 January 2004, becoming a ratings success in Italy and on Nickelodeon networks internationally. The series is set in a magical universe inhabited by fairies, witches, and other mythical creatures, and tells the story of Bloom, a teenage girl from planet Earth who discovers she is a fairy. Enrolling at Alfea College, she befriends four other fairies and forms a group called the Winx Club, fighting a long series of enemies threatening the Magic Dimension, and in the process, discovering her true origins and the fate of her biological family.",
+            "poster_path": "/images/posters/series/winx-club.svg",
+            "external_provider": "wikidata",
+            "external_id": "1848",
+            "source_title": "Winx Club"
+        },
+        {
+            "slug": "ben-10",
+            "title": "Ben 10",
+            "release_year": 2005,
+            "overview": "Ben 10 is an American science fiction superhero media franchise conceived by Man of Action and owned by The Cartoon Network, Inc., division of Skydance. The franchise, mainly consisting of animated series produced by Cartoon Network Studios, revolves around a young boy named Ben Tennyson, who discovers the Omnitrix—a high-tech, extraterrestrial device shaped like a wristwatch. This remarkable gadget contains the DNA of various alien species, allowing Ben to transform into them at will. Initially, the Omnitrix features ten alien transformations, but over time, Ben gains the ability to unlock additional species.",
+            "poster_path": "/images/posters/series/ben-10.svg",
+            "external_provider": "wikidata",
+            "external_id": "4686",
+            "source_title": "Ben 10"
+        },
+        {
+            "slug": "arrow",
+            "title": "Arrow",
+            "release_year": 2012,
+            "overview": "An arrow is a fin-stabilized projectile launched by a bow. A typical arrow usually consists of a long, stiff, straight shaft with a weighty arrowhead attached to the front end, multiple fin-like stabilizers called fletchings mounted near the rear, and a slot at the rear end called a nock for engaging the bowstring. A container or bag carrying additional arrows for convenient reloading is called a quiver.",
+            "poster_path": "/images/posters/series/arrow.svg",
+            "external_provider": "wikidata",
+            "external_id": "1412",
+            "source_title": "Arrow"
+        },
+        {
+            "slug": "monk",
+            "title": "Monk",
+            "release_year": 2002,
+            "overview": "A monk is a man who is a member of a religious order and lives in a monastery. A monk usually lives his life in prayer and contemplation. The concept is ancient and can be seen in many religions, and in philosophy, across numerous cultures. Monasticism is historically rooted in the Sramana movements of ancient India, which produced the structured ascetic orders of Jainism and Buddhism. Benedict of Nursia is considered to be the originator of western monasticism.",
+            "poster_path": "/images/posters/series/monk.jpg",
+            "external_provider": "wikidata",
+            "external_id": "1695",
+            "source_title": "Monk"
+        },
+        {
+            "slug": "seinfeld",
+            "title": "Seinfeld",
+            "release_year": 1989,
+            "overview": "Seinfeld is an American television sitcom created by Larry David and Jerry Seinfeld. It originally aired on NBC from July 5, 1989, to May 14, 1998, with a total of nine seasons consisting of 180 episodes. Its ensemble cast stars Seinfeld as a fictionalized version of himself and focuses on his personal life with his three friends: best friend George Costanza, ex-girlfriend Elaine Benes, and eccentric apartment neighbor Cosmo Kramer.",
+            "poster_path": "/images/posters/series/seinfeld.svg",
+            "external_provider": "wikidata",
+            "external_id": "1400",
+            "source_title": "Seinfeld"
+        },
+        {
+            "slug": "brooklyn-nine-nine",
+            "title": "Brooklyn Nine-Nine",
+            "release_year": 2013,
+            "overview": "Brooklyn Nine-Nine is an American police procedural sitcom that aired on Fox from September 17, 2013, to May 20, 2018, and later on NBC, from January 10, 2019, to September 16, 2021, for eight seasons and 153 episodes. Created by Dan Goor and Michael Schur and produced by Fremulon, Dr. Goor Productions, 3 Arts Entertainment and Universal Television, it revolved around seven New York City Police Department (NYPD) detectives who are adjusting to life under their new commanding officer, the serious and stern Captain Raymond Holt. Andy Samberg led the ensemble cast, which featured Stephanie Beatriz, Terry Crews, Melissa Fumero, Joe Lo Truglio, Chelsea Peretti, Dirk Blocker, and Joel McKinnon Miller.",
+            "poster_path": "/images/posters/series/brooklyn-nine-nine.svg",
+            "external_provider": "wikidata",
+            "external_id": "48891",
+            "source_title": "Brooklyn Nine-Nine"
+        },
+        {
+            "slug": "the-crown",
+            "title": "The Crown",
+            "release_year": 2016,
+            "overview": "The Crown is a political concept used in Commonwealth realms, analogous to the concept of the government in legal systems influenced by Roman civil law.",
+            "poster_path": "/images/posters/series/the-crown.svg",
+            "external_provider": "wikidata",
+            "external_id": "65494",
+            "source_title": "The Crown"
+        },
+        {
+            "slug": "sex-education",
+            "title": "Sex Education",
+            "release_year": 2019,
+            "overview": "Sex education, also known as sexual education, sexuality education or sex ed, is the instruction of issues relating to human sexuality, including human sexual anatomy, sexual activity, sexual reproduction, safe sex, birth control, sexual and reproductive health, emotional relationships and responsibilities, age of consent, and reproductive rights.",
+            "poster_path": "/images/posters/series/sex-education.svg",
+            "external_provider": "wikidata",
+            "external_id": "81356",
+            "source_title": "Sex education"
+        },
+        {
+            "slug": "the-penthouse-war-in-life",
+            "title": "The Penthouse: War in Life",
+            "release_year": 2020,
+            "overview": "The Penthouse: War in Life (Korean: 펜트하우스) is a South Korean television series starring Lee Ji-ah, Kim So-yeon, Eugene, Um Ki-joon, Yoon Jong-hoon, and Park Eun-seok. The series, directed by Joo Dong-min and written by Kim Soon-ok, spins the story of a real estate and education war, a desire to be number one. It depicts the solidarity and revenge of women who turned to evil to protect themselves and their children. It premiered on SBS TV on October 26, 2020.",
+            "poster_path": "/images/posters/series/the-penthouse-war-in-life.jpg",
+            "external_provider": "wikidata",
+            "external_id": "99489",
+            "source_title": "The Penthouse: War in Life"
+        },
+        {
+            "slug": "the-powerpuff-girls",
+            "title": "The Powerpuff Girls",
+            "release_year": 1998,
+            "overview": "The Powerpuff Girls is an American animated superhero television series created by Craig McCracken for Cartoon Network. The show centers on Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers. They live in the fictional city of Townsville with their father and creator, a scientist named Professor Utonium, and are frequently called upon by the city's mayor to help fight nearby criminals and other enemies using their powers.",
+            "poster_path": "/images/posters/series/the-powerpuff-girls.svg",
+            "external_provider": "wikidata",
+            "external_id": "607",
+            "source_title": "The Powerpuff Girls"
+        },
+        {
+            "slug": "father-of-the-pride",
+            "title": "Father of the Pride",
+            "release_year": 2004,
+            "overview": "Father of the Pride is an American adult animated sitcom created by Jeffrey Katzenberg and produced by DreamWorks Animation for NBC.",
+            "poster_path": "/images/posters/series/father-of-the-pride.svg",
+            "external_provider": "wikidata",
+            "external_id": "441",
+            "source_title": "Father of the Pride"
+        },
+        {
+            "slug": "paw-patrol",
+            "title": "Paw Patrol",
+            "release_year": 2013,
+            "overview": "Paw Patrol is a Canadian children's animated television series created by Keith Chapman and produced by Spin Master Entertainment for Nickelodeon, with animation provided by Guru Studio. In Canada, the series is primarily broadcast on TVOntario as part of the TVOKids programing block. TVO first ran previews of the show in August 2013. The series premiered on Nickelodeon in the United States on August 12, 2013.",
+            "poster_path": "/images/posters/series/paw-patrol.svg",
+            "external_provider": "wikidata",
+            "external_id": "57532",
+            "source_title": "Paw Patrol"
+        },
+        {
+            "slug": "the-amazing-world-of-gumball",
+            "title": "The Amazing World of Gumball",
+            "release_year": 2011,
+            "overview": "The Amazing World of Gumball is an animated sitcom created by Ben Bocquelet for Cartoon Network. The series follows the lives of 12-year-old Gumball Watterson, an anthropomorphic blue cat, and his adoptive goldfish brother Darwin, who attend middle school in the fictional city of Elmore. They often find themselves in various shenanigans around the city, during which they interact with fellow family members—younger sister Anais, mother Nicole, and father Richard—along with an extended supporting cast of characters.",
+            "poster_path": "/images/posters/series/the-amazing-world-of-gumball.svg",
+            "external_provider": "wikidata",
+            "external_id": "37606",
+            "source_title": "The Amazing World of Gumball"
+        },
+        {
+            "slug": "star-trek-the-original-series",
+            "title": "Star Trek: The Original Series",
+            "release_year": 1966,
+            "overview": "Star Trek is an American science fiction television series created by Gene Roddenberry that follows the adventures of the starship USS Enterprise (NCC-1701) and its crew. It acquired the retronym of Star Trek: The Original Series (TOS) to distinguish the show within the media franchise that it began.",
+            "poster_path": "/images/posters/series/star-trek-the-original-series.svg",
+            "external_provider": "wikidata",
+            "external_id": "253",
+            "source_title": "Star Trek: The Original Series"
+        },
+        {
+            "slug": "star-trek-the-next-generation",
+            "title": "Star Trek: The Next Generation",
+            "release_year": 1987,
+            "overview": "Star Trek: The Next Generation (TNG) is an American science fiction television series created by Gene Roddenberry. It originally aired from September 28, 1987, to May 23, 1994, in syndication, spanning 178 episodes over seven seasons. The third series in the Star Trek franchise, it was inspired by Star Trek: The Original Series. Set in the latter third of the 24th century, when Earth is part of the United Federation of Planets, it follows the adventures of a Starfleet starship, the USS Enterprise (NCC-1701-D), in its exploration of the Alpha quadrant and Beta quadrant in the Milky Way galaxy.",
+            "poster_path": "/images/posters/series/star-trek-the-next-generation.svg",
+            "external_provider": "wikidata",
+            "external_id": "655",
+            "source_title": "Star Trek: The Next Generation"
+        },
+        {
+            "slug": "westworld",
+            "title": "Westworld",
+            "release_year": 2016,
+            "overview": "Westworld is an American science fiction dystopia media franchise that began with the 1973 film Westworld, written and directed by Michael Crichton. The film depicts a technologically advanced Wild-West-themed amusement park populated by androids that malfunction and begin killing the human visitors; it was followed by the sequel film Futureworld (1976). The franchise moved to television in 1980 with the series Beyond Westworld on CBS. In 2016, a new television series based on the original film debuted on HBO; the series broadcast four full seasons before being cancelled.",
+            "poster_path": "/images/posters/series/westworld.svg",
+            "external_provider": "wikidata",
+            "external_id": "63247",
+            "source_title": "Westworld"
+        },
+        {
+            "slug": "bob-the-builder",
+            "title": "Bob the Builder",
+            "release_year": 1997,
+            "overview": "Bob the Builder is a British animated children's television series created by Keith Chapman for HIT Entertainment which ran from 12 April 1999  to 31 December 2011  in the United Kingdom on the BBC, first on BBC One and later CBeebies. The series centres on the adventures and escapades of a general contractor named Bob who owns a team of anthropomorphic construction vehicles that go about their day helping out with construction work in several towns.",
+            "poster_path": "/images/posters/series/bob-the-builder.svg",
+            "external_provider": "wikidata",
+            "external_id": "10938",
+            "source_title": "Bob the Builder"
+        },
+        {
+            "slug": "magnificent-century",
+            "title": "Magnificent Century",
+            "release_year": 2011,
+            "overview": "Muhteşem Yüzyıl is a Turkish historical drama series. Written by Meral Okay and Yılmaz Şahin, it is based on the life of Ottoman Sultan Suleiman the Magnificent, the longest-reigning Sultan of the Ottoman Empire, and Hürrem Sultan, a slave girl who became his wife. It also sheds light on the era known as the Sultanate of Women. It was originally broadcast on Show TV and then transferred to Star TV.",
+            "poster_path": "/images/posters/series/magnificent-century.svg",
+            "external_provider": "wikidata",
+            "external_id": "34899",
+            "source_title": "Muhteşem Yüzyıl"
+        },
+        {
+            "slug": "eurovision-song-contest",
+            "title": "Eurovision Song Contest",
+            "release_year": 1956,
+            "overview": "The Eurovision Song Contest, often known simply as Eurovision, is an international song competition organised annually by the European Broadcasting Union (EBU) since 1956. Each participating broadcaster submits an original song representing its country to be performed live via the Eurovision and Euroradio networks, and then casts votes for the other countries' songs to determine a winner.",
+            "poster_path": "/images/posters/series/eurovision-song-contest.svg",
+            "external_provider": "wikidata",
+            "external_id": "28032",
+            "source_title": "Eurovision Song Contest"
+        },
+        {
+            "slug": "gilmore-girls",
+            "title": "Gilmore Girls",
+            "release_year": 2000,
+            "overview": "Gilmore Girls is an American comedy drama television series created by Amy Sherman-Palladino. It stars Lauren Graham and Alexis Bledel as Lorelai and Rory Gilmore, a mother–daughter pair living in the fictional town of Stars Hollow, Connecticut. The series also stars an ensemble supporting cast, including Melissa McCarthy, Keiko Agena, Yanic Truesdale, Scott Patterson, Kelly Bishop, Edward Herrmann, Liza Weil, Jared Padalecki, Milo Ventimiglia, Sean Gunn, Chris Eigeman, and Matt Czuchry. It premiered on The WB on October 5, 2000, and ran for seven seasons, concluding on The CW on May 15, 2007.",
+            "poster_path": "/images/posters/series/gilmore-girls.svg",
+            "external_provider": "wikidata",
+            "external_id": "4586",
+            "source_title": "Gilmore Girls"
+        },
+        {
+            "slug": "cowboy-bebop",
+            "title": "Cowboy Bebop",
+            "release_year": 1998,
+            "overview": "Cowboy Bebop  is a Japanese neo-noir space Western anime television series that aired on TV Tokyo and Wowow from 1998 to 1999. Created and animated by Sunrise, it was led by a production team of director Shinichirō Watanabe, screenwriter Keiko Nobumoto, character designer Toshihiro Kawamoto, mechanical designer Kimitoshi Yamane, and composer Yoko Kanno, who are collectively billed as Hajime Yatate. The series, which ran for twenty-six episodes, is set in the year 2071 and follows the lives of a traveling bounty-hunting crew aboard a spaceship, the Bebop. Although it incorporates a wide variety of genres, the series draws most heavily from science fiction, Western, and noir films. It explores themes such as existential boredom, loneliness, and the inability to escape one's past.",
+            "poster_path": "/images/posters/series/cowboy-bebop.jpg",
+            "external_provider": "wikidata",
+            "external_id": "30991",
+            "source_title": "Cowboy Bebop"
+        },
+        {
+            "slug": "guardian-the-lonely-and-great-god",
+            "title": "Guardian: The Lonely and Great God",
+            "release_year": 2016,
+            "overview": "Guardian: The Lonely and Great God is a South Korean television series starring Gong Yoo in the title role, alongside Kim Go-eun, Lee Dong-wook, Yoo In-na, and Yook Sung-jae. Written by Kim Eun-sook, the series aired on tvN from December 2, 2016, to January 21, 2017.",
+            "poster_path": "/images/posters/series/guardian-the-lonely-and-great-god.svg",
+            "external_provider": "wikidata",
+            "external_id": "67915",
+            "source_title": "Guardian: The Lonely and Great God"
+        },
+        {
+            "slug": "the-mandalorian",
+            "title": "The Mandalorian",
+            "release_year": 2019,
+            "overview": "The Mandalorian, also known as Star Wars: The Mandalorian, is an American space Western television series created by Jon Favreau for the streaming service Disney+. It is the first live-action series in the Star Wars franchise and begins five years after the events of the film Return of the Jedi (1983). It follows a lone bounty hunter who protects a Force-sensitive child, Grogu, from remnant Imperial forces.",
+            "poster_path": "/images/posters/series/the-mandalorian.svg",
+            "external_provider": "wikidata",
+            "external_id": "82856",
+            "source_title": "The Mandalorian"
+        },
+        {
+            "slug": "oggy-and-the-cockroaches",
+            "title": "Oggy and the Cockroaches",
+            "release_year": 1998,
+            "overview": "Oggy and the Cockroaches is an animated television series created by Jean-Yves Raimbaud and produced by Gaumont Multimedia for season 1 and Xilam Animation for seasons 2–8. It chronicles the comedic exploits and burlesque adventures of a rotund, blue cat named Oggy, whose days are always ruined by three cockroaches – Joey, Marky, and Dee Dee respectively – who regularly cause mischief at his home. The show employs the use of silent comedy, with characters not speaking and using unintelligible gibberish vocalizations, gestures, facial expressions, sound effects and sardonic laughter to communicate. Complex sequences are illustrated with images, sometimes in written text, speech balloons, or pictograms. In India, however, the series is notably aired on some television channels with voice-acted dialogue in Hindi and other languages.",
+            "poster_path": "/images/posters/series/oggy-and-the-cockroaches.svg",
+            "external_provider": "wikidata",
+            "external_id": "2777",
+            "source_title": "Oggy and the Cockroaches"
+        },
+        {
+            "slug": "castle",
+            "title": "Castle",
+            "release_year": 2009,
+            "overview": "A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. Scholars usually consider a castle to be the private fortified residence of a lord or noble. This is distinct from a mansion, palace, and villa, whose main purpose was exclusively for pleasance and are not primarily fortresses but may be fortified. Use of the term has varied over time and, sometimes, has also been applied to structures such as hill forts and 19th- and 20th-century homes built to resemble castles. Over the Middle Ages, when genuine castles were built, they took on a great many forms with many different features, although some, such as curtain walls, arrowslits, and portcullises, were commonplace.",
+            "poster_path": "/images/posters/series/castle.svg",
+            "external_provider": "wikidata",
+            "external_id": "1419",
+            "source_title": "Castle"
+        },
+        {
+            "slug": "wizards-of-waverly-place",
+            "title": "Wizards of Waverly Place",
+            "release_year": 2007,
+            "overview": "Wizards of Waverly Place is an American fantasy teen sitcom created by Todd J. Greenwald that aired on Disney Channel for four seasons between October 2007 and January 2012. The series centers on Alex Russo, a teenage wizard living on Waverly Place in the Greenwich Village section of New York City, who undertakes training alongside her brothers, Justin and Max, who are also equipped with magical abilities. The three siblings are trained knowing that one day they will compete to win sole custody of their family's powers. Episodes focus on Alex's challenges in keeping her secret powers hidden while she deals with the social and personal issues of her youth. She frequently uses magic in her everyday life, sometimes irresponsibly, and develops her supernatural abilities over the course of the series. The main themes depicted include family, friendship, and adolescence; the series also contai",
+            "poster_path": "/images/posters/series/wizards-of-waverly-place.svg",
+            "external_provider": "wikidata",
+            "external_id": "3498",
+            "source_title": "Wizards of Waverly Place"
+        },
+        {
+            "slug": "downton-abbey",
+            "title": "Downton Abbey",
+            "release_year": 2010,
+            "overview": "Downton Abbey is a British historical drama television series set in the early 20th century, created and co-written by Julian Fellowes. It first aired in the United Kingdom on ITV on 26 September 2010 and in the United States on PBS, which supported its production as part of its Masterpiece Classic anthology, on 9 January 2011. The show ran for fifty-two episodes across six series, including five Christmas specials.",
+            "poster_path": "/images/posters/series/downton-abbey.svg",
+            "external_provider": "wikidata",
+            "external_id": "33907",
+            "source_title": "Downton Abbey"
+        },
+        {
+            "slug": "vikings",
+            "title": "Vikings",
+            "release_year": 2013,
+            "overview": "Vikings were a seafaring people originally from Scandinavia, who from the late 8th to the late 11th centuries raided, pirated, traded, and settled throughout parts of Europe. They voyaged as far as the Mediterranean, North Africa, the Middle East, Greenland, and Vinland. In their countries of origin, and in some of the countries they raided and settled, this period of activity is popularly known as the Viking Age, and the term \"Viking\" also commonly includes the inhabitants of the Scandinavian homelands as a whole during the late 8th to the mid-11th centuries. The Vikings had a profound impact on the early medieval history of northern and Eastern Europe, including the political and social development of England and parts of France, and the establishment of Kievan Rus', the ancestor of the later states of Belarus, Russia, and Ukraine.",
+            "poster_path": "/images/posters/series/vikings.jpg",
+            "external_provider": "wikidata",
+            "external_id": "44217",
+            "source_title": "Vikings"
+        },
+        {
+            "slug": "the-flash",
+            "title": "The Flash",
+            "release_year": 2014,
+            "overview": "The Flash is the name of several superheroes appearing in American comic books published by DC Comics. Created by writer Gardner Fox and artist Harry Lampert, the original Flash first appeared in Flash Comics #1. Nicknamed \"the Scarlet Speedster\", all incarnations of the Flash possess \"superspeed\", which includes the ability to run, move, and think extremely fast, use superhuman reflexes, and seemingly violate certain laws of physics.",
+            "poster_path": "/images/posters/series/the-flash.jpg",
+            "external_provider": "wikidata",
+            "external_id": "60735",
+            "source_title": "The Flash"
+        },
+        {
+            "slug": "servant-of-the-people",
+            "title": "Servant of the People",
+            "release_year": 2015,
+            "overview": "Servant of the People is a liberal, centrist, pro-European political party in Ukraine. Since both the 2019 Ukrainian presidential election and the 2019 Ukrainian parliamentary election, it has been the ruling political party in Ukraine. It is best known for being the political party of President Volodymyr Zelenskyy, who leads the party de facto. It is currently headed by Oleksandr Korniyenko.",
+            "poster_path": "/images/posters/series/servant-of-the-people.svg",
+            "external_provider": "wikidata",
+            "external_id": "64480",
+            "source_title": "Servant of the People"
+        },
+        {
+            "slug": "pretty-little-liars",
+            "title": "Pretty Little Liars",
+            "release_year": 2010,
+            "overview": "Pretty Little Liars is an American teen drama mystery television series created by I. Marlene King. It aired on Freeform from June 8, 2010, to June 27, 2017, based on the novel series of the same name written by Sara Shepard, lasting 160 episodes over seven seasons. Set in the fictional Rosewood, Pennsylvania, the plot follows five best friends whose secrets are consistently threatened by the anonymous \"A\", who begins harassing them after the disappearance of their clique leader. Troian Bellisario, Ashley Benson, Lucy Hale, Shay Mitchell, Sasha Pieterse, and Janel Parrish lead the ensemble cast, alongside Holly Marie Combs, Ian Harding, Bianca Lawson, Laura Leighton, Chad Lowe, Nia Peeples, Tyler Blackburn, and Andrea Parker.",
+            "poster_path": "/images/posters/series/pretty-little-liars.svg",
+            "external_provider": "wikidata",
+            "external_id": "31917",
+            "source_title": "Pretty Little Liars"
+        },
+        {
+            "slug": "wandavision",
+            "title": "WandaVision",
+            "release_year": 2021,
+            "overview": "WandaVision is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on Marvel Comics featuring the characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, sharing continuity with the films of the franchise, and is set after the events of the film Avengers: Endgame (2019). It follows Wanda Maximoff and Vision as they live an idyllic suburban life in the town of Westview, New Jersey, until their reality starts moving through different decades of sitcom homages and television tropes. Schaeffer served as head writer for the series, which was directed by Matt Shakman.",
+            "poster_path": "/images/posters/series/wandavision.svg",
+            "external_provider": "wikidata",
+            "external_id": "85271",
+            "source_title": "WandaVision"
+        },
+        {
+            "slug": "bones",
+            "title": "Bones",
+            "release_year": 2005,
+            "overview": "A bone is a rigid organ that constitutes part of the skeleton in most vertebrate animals. Bones protect the organs of the body, produce red and white blood cells, store minerals, help regulate acid-base homeostasis, provide structure and support for the body, and enable mobility and hearing. Bones come in a variety of shapes and sizes and have complex internal and external structures.",
+            "poster_path": "/images/posters/series/bones.svg",
+            "external_provider": "wikidata",
+            "external_id": "1911",
+            "source_title": "Bone"
+        },
+        {
+            "slug": "that-70s-show",
+            "title": "That '70s Show",
+            "release_year": 1998,
+            "overview": "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in the fictional town of Point Place, Wisconsin, from 1976 to 1979. The ensemble cast features Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, Lisa Robin Kelly, Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts.",
+            "poster_path": "/images/posters/series/that-70s-show.svg",
+            "external_provider": "wikidata",
+            "external_id": "52",
+            "source_title": "That '70s Show"
+        },
+        {
+            "slug": "merlin",
+            "title": "Merlin",
+            "release_year": 2008,
+            "overview": "Merlin is a mythical figure prominently featured in the legend of King Arthur and best known as a prophet and a magician, along with several other main roles. The familiar depiction of Merlin, based on an amalgamation of historical and legendary figures, was introduced by the 12th-century Catholic cleric Geoffrey of Monmouth and then built on by the French poet Robert de Boron and prose successors in the 13th century. Geoffrey's account presented Merlin as a prophet and royal advisor to Arthur's father, Uther Pendragon.",
+            "poster_path": "/images/posters/series/merlin.svg",
+            "external_provider": "wikidata",
+            "external_id": "7225",
+            "source_title": "Merlin"
+        },
+        {
+            "slug": "descendants-of-the-sun",
+            "title": "Descendants of the Sun",
+            "release_year": 2016,
+            "overview": "Descendants of the Sun is a 2016 South Korean television series starring Song Joong-ki, Song Hye-kyo, Jin Goo, and Kim Ji-won. Written by Kim Eun-sook and Kim Won-seok, the series follows the relationship between Yoo Shi-jin, a captain in the South Korean Army's special forces, and Kang Mo-yeon, a surgeon. Their different views on life and duty initially separate them, but they eventually meet again in a fictional disaster-stricken country during a humanitarian mission. A subplot explores the forbidden romance between Seo Dae-young, a master sergeant, and Yoon Myung-joo, an army doctor.",
+            "poster_path": "/images/posters/series/descendants-of-the-sun.jpg",
+            "external_provider": "wikidata",
+            "external_id": "65143",
+            "source_title": "Descendants of the Sun"
+        },
+        {
+            "slug": "loki",
+            "title": "Loki",
+            "release_year": 2021,
+            "overview": "Loki is a god in Norse mythology. Loki engineers the death of the beloved god Baldr and is bound by the gods and suffers from serpent venom. His wife Sigyn collects the venom in a bowl. However, she must empty the bowl when it is full and the venom that drips in the meantime causes Loki to writhe in pain, thereby causing earthquakes.",
+            "poster_path": "/images/posters/series/loki.jpg",
+            "external_provider": "wikidata",
+            "external_id": "84958",
+            "source_title": "Loki"
+        },
+        {
+            "slug": "it-s-okay-to-not-be-okay",
+            "title": "It's Okay to Not Be Okay",
+            "release_year": 2020,
+            "overview": "It's Okay to Not Be Okay is a 2020 South Korean romantic comedy drama television series written by Jo Yong, directed by Park Shin-woo, and starring Kim Soo-hyun, Seo Yea-ji, and Oh Jung-se. The series follows Ko Moon-young, an antisocial children's book writer who moves to her hometown to pursue her love interest Moon Gang-tae, a psych ward caretaker, who has dedicated his life to taking care of his autistic older brother Moon Sang-tae. It aired on tvN from June 20 to August 9, 2020, every Saturday and Sunday at 21:00 (KST). It is also available for streaming on Netflix in selected regions.",
+            "poster_path": "/images/posters/series/it-s-okay-to-not-be-okay.jpg",
+            "external_provider": "wikidata",
+            "external_id": "96462",
+            "source_title": "It's Okay to Not Be Okay"
+        }
+    ]
+}
