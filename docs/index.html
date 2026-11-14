@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./reel.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="واچ‌کرو؛ پیدا کردن انجمن فارسی‌زبان مناسب برای هر فیلم و سریال." />
+    <meta name="theme-color" content="#101116" />
+    <link
+      rel="preload"
+      href="./fonts/peyda/PeydaWeb-Regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <title>واچ‌کرو | WatchKru</title>
+    <script>
+      // Runs before paint: no flash of the wrong theme.
+      (function () {
+        try {
+          var saved = localStorage.getItem("wk_theme");
+          var prefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
+          var theme = saved || (prefersLight ? "light" : "dark");
+          document.documentElement.classList.add(theme);
+        } catch (e) {
+          document.documentElement.classList.add("dark");
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="./assets/index-ChNtzT8k.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-XKyaHtl9.js">
+    <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-C3cWAN_r.js">
+    <link rel="modulepreload" crossorigin href="./assets/api-CvlQcL_8.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-DrgQ4i9I.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

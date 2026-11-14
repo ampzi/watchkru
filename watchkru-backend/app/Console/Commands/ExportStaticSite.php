@@ -21,11 +21,14 @@ use Illuminate\Support\Facades\File;
  * (catalogue, communities, chat demo, demo users, admin counters) into one
  * JSON file that the frontend reads in "static mode".
  *
- * Usage: php artisan watchkru:export-static --path=../github
+ * The output folder is `docs/` because GitHub Pages can only serve the
+ * repository root or `/docs` from a branch.
+ *
+ * Usage: php artisan watchkru:export-static --path=../docs
  */
 class ExportStaticSite extends Command
 {
-    protected $signature = 'watchkru:export-static {--path=../github : Output directory for the static site}';
+    protected $signature = 'watchkru:export-static {--path=../docs : Output directory for the static site}';
 
     protected $description = 'Export a static JSON snapshot of the catalogue for GitHub Pages.';
 
